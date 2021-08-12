@@ -21,23 +21,23 @@ body {
 /*Moved semantic elements to mirror the order they are on html*/
 /*Changed Class names to match html semantic elements*/
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -45,16 +45,16 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-.figure {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -63,7 +63,7 @@ body {
     background-position: center;
 }
 
-.main {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -71,7 +71,7 @@ body {
 
 /*combined and renamed classes that had the same attributes and deleted excess*/
 
-.article {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -80,11 +80,11 @@ body {
     color: #ffffff;
 }
 
-.article img {
+article img {
     max-height: 200px;
 }
 
-.article h2 {
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -99,7 +99,7 @@ body {
     margin-left: 25px;
 }
 
-.aside {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -110,29 +110,29 @@ body {
     background-color: #2589bd;
 }
 
-.section {
+section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.section h3 {
+section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.section img {
+section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
