@@ -69,7 +69,8 @@ main {
     margin-left: 20px;
 }
 
-/*combined and renamed classes that had the same attributes and deleted excess*/
+/*removed unneeded classes and used the main element tags*/
+/*removed excess elements that had the same attributes and deleted excess*/
 
 article {
     margin-bottom: 20px;
