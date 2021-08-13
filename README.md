@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [Description](#Description)
+- [Screenshot](#Screenshot)
 - [Language](#language)
 
 
@@ -12,7 +13,7 @@ In this homework assignment I refractored the existing code to make it work corr
 updated the CSS stylesheet to be more user friendly, enhanced the search engine optimazation, and updated the HTML with semantic elements.
 
 ## Screenshot
-![website screenshot](/Users/lauraweiner/Activities/Homework/seo-refactor-exercise/assets/images/screenshot.png)
+![website screenshot](./assets/images/screenshot.png)
 
 ## Language
 HTML and CSS
